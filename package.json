@@ -1,0 +1,22 @@
+{
+  "name": "dynamo_actual",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickmexal/dynamo_actual.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickmexal/dynamo_actual/issues"
+  },
+  "homepage": "https://github.com/patrickmexal/dynamo_actual#readme",
+  "dependencies": {
+    "materialize-css": "^1.0.0-beta"
+  }
+}

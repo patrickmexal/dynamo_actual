@@ -4,6 +4,7 @@
 
 body {
     background-image: url("../img/zen.jpg");
+    background-size: 1400px, 1400px;
 }
 
 .amp {
@@ -23,4 +24,5 @@ body {
 	margin-top: 220px;
     width: 100%;
     text-align: center;
+    font-family: 'Gugi', cursive;
 }

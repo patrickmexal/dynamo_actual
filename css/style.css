@@ -1,19 +1,15 @@
 .nav-wrapper {
-	background-color: black;
+	background-color: grey;
 }
 
 #theFern {
-	height: 500px;
-	width: 700px;
-	opacity: 1;
+	height: 70%;
+	width: 95%;
+	opacity: .5;
 }
 
-h1 {
+#header {
+	width: 100%;
 	text-align: center;
-	opacity: 1.0;
-}
-
-#header-title {
-	opacity: 2;
-	border-style: solid black;
+	font-family: 'Playfair Display', serif;
 }

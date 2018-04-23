@@ -4,6 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Materialize Boilerplate</title>
+    <!-- Viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- JQuery CDN -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E=" crossorigin="anonymous"></script>
     <!-- Materialize -->
@@ -14,21 +16,25 @@
     <!-- Compiled and minified JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-beta/js/materialize.min.js"></script>
     <!-- Individual CSS -->
+    <link rel="stylesheet" type="text/css" href="./css/style.css">
 </head>
 
 <body>
+    <!-- Navbar -->
     <nav>
         <div class="nav-wrapper">
-            <a href="#" class="brand-logo">Logo</a>
+            <a href="#" class="brand-logo"><img id="theFern" src="./img/ferns.png"/></a>
             <ul id="nav-mobile" class="right hide-on-med-and-down">
-                <li><a href="sass.html">Sass</a></li>
-                <li><a href="badges.html">Components</a></li>
-                <li><a href="collapsible.html">JavaScript</a></li>
+                <li><a href="sass.html">Patrick Mexal</a></li>
+                <li><a href="badges.html">Jr. Web Dev</a></li>
+                <li><a href="collapsible.html">UI/UX Design</a></li>
             </ul>
         </div>
     </nav>
+    
+    <!-- Secondary Nav Popup -->
     <div class="fixed-action-btn">
-        <a class="btn-floating btn-large red">
+        <a class="btn-floating btn-large black pulse">
     <i class="large material-icons">all_inclusive</i>
   </a>
         <ul>

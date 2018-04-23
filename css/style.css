@@ -1,15 +1,26 @@
 .nav-wrapper {
-	background-color: grey;
+    background-color: grey;
+}
+
+body {
+    background-image: url("../img/zen.jpg");
+}
+
+.amp {
+    font-family: Baskerville, 'Goudy Old Style', Palatino, 'Book Antiqua', serif;
+    font-style: italic;
+    font-weight: normal;
 }
 
 #theFern {
-	height: 70%;
-	width: 95%;
-	opacity: .5;
+    height: 70%;
+    width: 95%;
+    opacity: .8;
 }
 
 #header {
-	width: 100%;
-	text-align: center;
-	font-family: 'Playfair Display', serif;
+	color: white;
+	margin-top: 220px;
+    width: 100%;
+    text-align: center;
 }

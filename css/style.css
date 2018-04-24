@@ -16,7 +16,7 @@ body {
 #theFern {
     height: 70%;
     width: 95%;
-    opacity: .8;
+    opacity: .7;
 }
 
 #header {
@@ -25,4 +25,10 @@ body {
     width: 100%;
     text-align: center;
     font-family: 'Gugi', cursive;
+}
+
+h4 {
+	background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }

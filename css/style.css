@@ -30,7 +30,10 @@ body {
     font-family: 'Gugi', cursive;
     opacity: 1 !important;   
 }
-
+ 
+hr {
+	width: 400px;
+}
 h4 {
 	background: -webkit-linear-gradient(#eee, #333);
   -webkit-background-clip: text;

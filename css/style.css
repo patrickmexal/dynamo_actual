@@ -19,12 +19,16 @@ body {
     opacity: .7;
 }
 
+.navTab {
+	font-family: 'Josefin Sans', sans-serif;
+}
 #header {
 	color: white;
 	margin-top: 220px;
     width: 100%;
     text-align: center;
     font-family: 'Gugi', cursive;
+    opacity: 1 !important;   
 }
 
 h4 {
@@ -32,3 +36,4 @@ h4 {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
